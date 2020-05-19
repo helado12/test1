@@ -15,7 +15,7 @@
 var canvas = document.getElementById("canvas1"),
     ctx1 = canvas.getContext("2d"),
     keyword1 = "测试 测试ABC",
-    keyword2 = "测试123",
+    keyword2 = "测试ABCDE",
     imageData,
     density =1,
     mouse = {},
